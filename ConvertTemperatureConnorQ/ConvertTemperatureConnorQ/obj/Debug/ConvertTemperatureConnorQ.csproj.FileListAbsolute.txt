@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\bin\Debug\ConvertTemperatureConnorQ.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\bin\Debug\ConvertTemperatureConnorQ.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\bin\Debug\ConvertTemperatureConnorQ.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\obj\Debug\ConvertTemperatureConnorQ.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\obj\Debug\ConvertTemperatureConnorQ.frmConvertTemperature.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\obj\Debug\ConvertTemperatureConnorQ.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\obj\Debug\ConvertTemperatureConnorQ.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\obj\Debug\ConvertTemperatureConnorQ.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Quinlan, Connor\Unit 4 (Procedures & Functions)\ConvertTemperatureConnorQ\ConvertTemperatureConnorQ\obj\Debug\ConvertTemperatureConnorQ.pdb
