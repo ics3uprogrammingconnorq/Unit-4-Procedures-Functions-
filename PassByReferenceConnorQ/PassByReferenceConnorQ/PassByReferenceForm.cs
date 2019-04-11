@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Connor Quinlan
+ * Created on: 10-04-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #29 - Rounding Program
+ * This program rounds a number to however many decimals the user wants.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
