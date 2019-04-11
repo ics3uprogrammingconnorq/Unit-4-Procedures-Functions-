@@ -31,18 +31,29 @@ namespace PassByReferenceConnorQ
 
         public void Round(ref double round, int decimals)
         {
-            round = (10 ^ decimals) * round;
+            // move the decimal point forward
+            round = Math.Pow(10, decimals) * round;
+
+            // add 0.5 to round
             round += 0.5;
+
+            // remove decimals from round
             round = Math.Truncate(round);
-            round = round / (10 ^ decimals);
+
+            // move the decimal point backward
+            round = round / Math.Pow(10, decimals);
+
+            // display round
             MessageBox.Show("The rounded number is: " + round, "Round Program");
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
+            // convert strings to double and int
             round = double.Parse(txtInput.Text);
             decimals = Convert.ToInt32(nudInput.Value);
 
+            // call round function
             Round(ref round, decimals);
         }
     }
