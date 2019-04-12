@@ -29,34 +29,40 @@ namespace OptionalParametersConnorQ
         {
             if (txtAddress.Text == "")
             {
+                // display missing info
                 MessageBox.Show("You didn't input an adress.", "Invalid");
             }
             else
             {
                 if (txtCity.Text == "")
                 {
+                    // display missing info
                     MessageBox.Show("You didn't input a city.", "Invalid");
                 }
                 else
                 {
                     if (txtProvince.Text == "")
                     {
+                        // display missing info
                         MessageBox.Show("You didn't input a province.", "Invalid");
                     }
                     else
                     {
                         if (txtPostalCode.Text == "")
                         {
+                            // display missing info
                             MessageBox.Show("You didn't input a postal code.", "Invalid");
                         }
                         else
                         {
                             if (txtAptNumber.Text == "")
                             {
+                                // call procedure with 4 arguments
                                 PrintInfo(txtAddress.Text, txtCity.Text, txtProvince.Text, txtPostalCode.Text);
                             }
                             else
                             {
+                                // call procedure with 5 arguments
                                 PrintInfo(txtAptNumber.Text, txtAddress.Text, txtCity.Text, txtProvince.Text, txtPostalCode.Text);
                             }
                         }
@@ -67,11 +73,13 @@ namespace OptionalParametersConnorQ
 
         public void PrintInfo(string one, string two, string three, string four)
         {
+            // display info with 4 parameters
             MessageBox.Show(one + ", " + two + ", " + three + ", " + four, "Info");
         }
 
         public void PrintInfo(string one, string two, string three, string four, string five)
         {
+            // display info with 5 parameters
             MessageBox.Show(one + ", " + two + ", " + three + ", " + four + ", " + five, "Info");
         }
     }
