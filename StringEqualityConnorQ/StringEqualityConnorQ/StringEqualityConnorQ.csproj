@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D296EE0B-D143-4D88-84BF-A8ABF2AF64C5}</ProjectGuid>
+    <ProjectGuid>{39DBB22A-E512-4F20-A9E0-D1F268F579C3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>StringEqualityConnorQ</RootNamespace>
     <AssemblyName>StringEqualityConnorQ</AssemblyName>
